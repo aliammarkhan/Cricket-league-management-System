@@ -1,0 +1,36 @@
+5    
+Ben Dwarshuis   
+23   
+Bowler     
+Australia   
+$110000     
+10   
+Adam Zampa      
+25
+Bowler    
+Australia   
+$110000     
+1    
+David Warner    
+31   
+Batsman   
+Australia    
+$1000000    
+4    
+Alex Carey      
+26  
+keeper/Bat 
+Australia   
+$120000     
+6    
+Travis Head     
+24   
+Batsman   
+Australia    
+$110000     
+5    
+Ben Dwarshuis   
+23   
+Bowler     
+Australia   
+$110000     

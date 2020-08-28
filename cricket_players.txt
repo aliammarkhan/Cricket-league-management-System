@@ -1,0 +1,61 @@
+1    
+David Warner    
+31   
+Australia    
+Batsman   
+$1000000    
+2    
+Aaron Finch     
+31   
+Australia    
+Batsman   
+$190000     
+3    
+Ashton Agar     
+24   
+Australia    
+Bowler   
+$120000 
+4    
+Alex Carey      
+26  
+Australia   
+keeper/Bat 
+$120000     
+5    
+Ben Dwarshuis   
+23   
+Australia   
+Bowler     
+$110000     
+6    
+Travis Head     
+24   
+Australia    
+Batsman   
+$110000     
+7    
+Chris Lynn      
+27   
+Australia    
+Batsman   
+$150000     
+8    
+Glenn Maxwell   
+29   
+Australia   
+AllRounder 
+$1000000    
+9    
+Kane Richardson 
+26   
+Australia   
+Bowler    
+$130000     
+10   
+Adam Zampa      
+25
+Australia   
+Bowler    
+$110000     
+

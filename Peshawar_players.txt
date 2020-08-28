@@ -1,0 +1,18 @@
+5    
+Ben Dwarshuis   
+23   
+Bowler     
+Australia   
+$110000     
+9    
+Kane Richardson 
+26   
+Bowler    
+Australia   
+$130000     
+1    
+David Warner    
+31   
+Batsman   
+Australia    
+$1000000    

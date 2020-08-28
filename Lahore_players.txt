@@ -1,0 +1,36 @@
+3    
+Ashton Agar     
+24   
+Bowler   
+Australia    
+$120000 
+5    
+Ben Dwarshuis   
+23   
+Bowler     
+Australia   
+$110000     
+6    
+Travis Head     
+24   
+Batsman   
+Australia    
+$110000     
+2    
+Aaron Finch     
+31   
+Batsman   
+Australia    
+$190000     
+1    
+David Warner    
+31   
+Batsman   
+Australia    
+$1000000    
+5    
+Ben Dwarshuis   
+23   
+Bowler     
+Australia   
+$110000     
